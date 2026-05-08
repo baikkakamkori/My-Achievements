@@ -1,8 +1,6 @@
 # ☢️ DarkNet Cyber Force BD ☢️
 ## [ Blade X Dark Root ]
 
-![Defacement Proof](proof.png)
-
 ### 💀 Operation: Server Strike
 - **Target Server:** DigiBC India CMS
 - **Exploit Type:** Iframe Injection / Stored XSS / Custom Variable Bypass
