@@ -1,7 +1,7 @@
 # ☢️ DarkNet Cyber Force BD ☢️
 ## [ Blade X Dark Root ]
 
-![Defacement Proof](proof.png)
+![Defacement Proof](deface-proof.png)
 
 ### 💀 System Information:
 - **Exploit Type:** Stored XSS / Template Injection / CMS Bypass
